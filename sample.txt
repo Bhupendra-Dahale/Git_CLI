@@ -8,3 +8,7 @@ now we were going to take off
 last night update this file now we use the test case for diff command
 1st commit is done 
 now we take for 2nd commit for diff command
+
+diff                            - for not staged files
+diff --staged                   - for stages files
+diff first branch second branch - for diffrence in branch
