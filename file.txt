@@ -1,0 +1,3 @@
+this is new file for further test cases
+now we use test case for reset
+we add file to the github now we edit it and then reset it
