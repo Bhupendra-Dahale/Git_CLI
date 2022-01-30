@@ -1,0 +1,1 @@
+This file is for IT software which can be use for bug resolution
