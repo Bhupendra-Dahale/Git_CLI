@@ -1,3 +1,5 @@
 rose
 sunflower
 lilly
+lotus
+jasmin
